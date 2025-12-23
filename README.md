@@ -14,4 +14,4 @@ Machine learning model to predict credit risk, helping identify high-risk borrow
    
 2. Run the streamlit app:
    ```commandline
-   streamlit run app.py
+   streamlit run main.py
