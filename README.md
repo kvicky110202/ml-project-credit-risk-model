@@ -1,4 +1,4 @@
-# ml-project-credit-risk-model
+# ML-Project-Credit-Risk-Model
 
 Machine learning model to predict credit risk, helping identify high-risk borrowers with greater accuracy.
 
